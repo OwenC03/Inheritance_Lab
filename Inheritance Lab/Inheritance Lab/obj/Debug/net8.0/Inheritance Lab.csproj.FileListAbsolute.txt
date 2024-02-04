@@ -1,0 +1,14 @@
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\bin\Debug\net8.0\Inheritance Lab.exe
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\bin\Debug\net8.0\Inheritance Lab.deps.json
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\bin\Debug\net8.0\Inheritance Lab.runtimeconfig.json
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\bin\Debug\net8.0\Inheritance Lab.dll
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\bin\Debug\net8.0\Inheritance Lab.pdb
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\Inheritance Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\Inheritance Lab.AssemblyInfoInputs.cache
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\Inheritance Lab.AssemblyInfo.cs
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\Inheritance Lab.csproj.CoreCompileInputs.cache
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\Inheritance Lab.dll
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\refint\Inheritance Lab.dll
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\Inheritance Lab.pdb
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\Inheritance Lab.genruntimeconfig.cache
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Inheritance Lab\Inheritance Lab\obj\Debug\net8.0\ref\Inheritance Lab.dll
